@@ -78,4 +78,20 @@ ul {
 }
 
 
+#character-list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#character-list li{
+  border: 2px solid gray;
+  margin: 10px;
+  font-size: 11px;
+}
+.imagenes{
+  width: 150px;
+
+}
+
 
